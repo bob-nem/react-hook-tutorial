@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Tutorial from './components/useReducerTutorial'
+import Tutorial from './components/useEffectTutorial'
 
 function App() {
   return (

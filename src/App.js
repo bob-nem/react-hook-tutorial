@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Tutorial from './components/useEffectTutorial'
+import Tutorial from './components/useCallback'
 
 function App() {
   return (
